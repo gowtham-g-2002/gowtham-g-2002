@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Data analytics projects using SQL, Power BI, and Python (Pandas)<br><br>👯 I’m looking to collaborate on<br><br>Data cleaning, EDA, and dashboard projects<br><br>🤝 I’m looking for help with<br><br>Advanced DAX, SQL query optimization, and data modeling best practices<br><br>🌱 I’m currently learning<br><br>Advanced Power BI (DAX), data modeling, and workflow automation with Apache Airflow<br><br>💬 Ask me about<br><br>Data cleaning, SQL queries, Power BI dashboards, and Excel reporting<br><br>⚡ Fun fact<br><br>I turn messy data into clear dashboards that help people make better decisions
+💫 About Me<br><br>🔭 Currently working on: End-to-end analytics projects with SQL, Power BI, and Python (Pandas)<br><br>👯 Open to collaborating on: Data cleaning, EDA, and dashboard projects<br><br>🤝 Looking for help with: Advanced DAX, SQL query optimization, and data modeling<br><br>🌱 Currently learning: Advanced DAX, data modeling, and workflow automation with Apache Airflow<br><br>💬 Ask me about: Data cleaning, SQL queries, Power BI dashboards, and Excel reporting<br><br>⚡ Fun fact: 37% of one dataset I cleaned was duplicate data, so I never skip the duplicate check now
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=gowtham-g-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=gowtham-g-2002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gowtham-g-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gowtham-g-2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gowtham-g-2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=gowtham-g-2002&icon=0&color=0)](https://visitcount.itsvg.in)
