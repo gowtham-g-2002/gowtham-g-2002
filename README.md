@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br><br>🔭 Currently working on: End-to-end analytics projects with SQL, Power BI, and Python (Pandas)<br><br>👯 Open to collaborating on: Data cleaning, EDA, and dashboard projects<br><br>🤝 Looking for help with: Advanced DAX, SQL query optimization, and data modeling<br><br>🌱 Currently learning: Advanced DAX, data modeling, and workflow automation with Apache Airflow<br><br>💬 Ask me about: Data cleaning, SQL queries, Power BI dashboards, and Excel reporting<br><br>⚡ Fun fact: 37% of one dataset I cleaned was duplicate data, so I never skip the duplicate check now
+🔭 Currently working on: End-to-end analytics projects with SQL, Power BI, and Python (Pandas)<br><br>👯 Open to collaborating on: Data cleaning, EDA, and dashboard projects<br><br>🤝 Looking for help with: Advanced DAX, SQL query optimization, and data modeling<br><br>🌱 Currently learning: Advanced DAX, data modeling, and workflow automation with Apache Airflow<br><br>💬 Ask me about: Data cleaning, SQL queries, Power BI dashboards, and Excel reporting<br><br>⚡ Fun fact: 37% of one dataset I cleaned was duplicate data, so I never skip the duplicate check now
 
 
 ## 🌐 Socials:
